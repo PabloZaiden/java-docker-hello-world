@@ -1,4 +1,4 @@
-# Java-docker-hello-world
+# java-docker-hello-world
 Hello World in Java that runs on docker
 
 ## How to run locally
