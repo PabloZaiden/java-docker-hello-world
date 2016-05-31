@@ -7,8 +7,8 @@ javac HelloWorld.java
 java HelloWorld
 ```
 
-## How to run on docker (with java:8-jre)
+## How to run on docker (with java:8-jdk)
 ```
 docker build -t hellojava .
-dotnet run hellojava
+docker run hellojava
 ```
